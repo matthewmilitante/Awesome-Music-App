@@ -16,7 +16,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginLeft="19dp"
         android:layout_marginTop="19dp"
-        android:text="One" />
+        android:text="Song One" />
 
     <Button
         android:id="@+id/button2"
@@ -25,7 +25,7 @@
         android:layout_alignLeft="@+id/button1"
         android:layout_below="@+id/button1"
         android:layout_marginTop="38dp"
-        android:text="Two" />
+        android:text="Song Two" />
 
     <Button
         android:id="@+id/button4"
@@ -34,7 +34,7 @@
         android:layout_alignBaseline="@+id/button2"
         android:layout_alignBottom="@+id/button2"
         android:layout_alignLeft="@+id/button3"
-        android:text="Four" />
+        android:text="Song Four" />
 
     <Button
         android:id="@+id/button3"
@@ -43,6 +43,6 @@
         android:layout_above="@+id/button2"
         android:layout_marginLeft="19dp"
         android:layout_toRightOf="@+id/button1"
-        android:text="Three" />
+        android:text="Song Three" />
 
 </RelativeLayout>
